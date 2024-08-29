@@ -1,7 +1,7 @@
 name: 'build-test'
 on: # rebuild any PRs and main branch changes
   schedule:
-    - cron: '0 */12 * * *' # every 12 hours
+    - cron: '50 2 * * *' # every 24 hours at 2:50 am
   push:
     branches:
       - test
