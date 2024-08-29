@@ -13,7 +13,7 @@ Languages: Java, C++, Python,
            JavaScript, HTML, CSS,
            SQL
 Hobbies: Reading, Cooking, Gaming
-Account_Age: ** 3**
+Account_Age: **3**
 Commits: **354**
 Repos: **34**
 ```
